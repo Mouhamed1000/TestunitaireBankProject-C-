@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPvaEN7JrxbaGYjJAPXJyfv9JKd9s9NJGJw3ahi/ox/zXNQE7/enehc92oZUxCKluiKmvYrqnKieL4tgXU9zgA==",
+  "success": true,
+  "projectFilePath": "/home/mouhamed/Documents/M2G/_.NET/TpTestsUnitaires/Banque/Banque.csproj",
+  "expectedPackageFiles": [
+    "/home/mouhamed/.nuget/packages/mstest.testframework/3.6.2/mstest.testframework.3.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
